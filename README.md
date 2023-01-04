@@ -1,8 +1,8 @@
 #list of group members' names
-Kevin Tran
-Kelly McDonald 
-Alyssa Cervantes
-Collin Stout 
+Kevin Tran  
+Kelly McDonald   
+Alyssa Cervantes  
+Collin Stout   
 
 #list of dependencies
 
