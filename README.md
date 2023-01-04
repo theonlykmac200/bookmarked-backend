@@ -1,14 +1,14 @@
-#list of group members' names    
+List of group members' names    
 Kevin Tran  
 Kelly McDonald   
 Alyssa Cervantes  
 Collin Stout   
 
-#list of dependencies
+List of dependencies
 
-#models           
+Models           
 title: string  
 url: string  
 
-#backend route table  
+backend route table  
 Index 
