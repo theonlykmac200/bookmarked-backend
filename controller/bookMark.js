@@ -1,6 +1,6 @@
 const express = require("express");
 const bookMarkRouter = express.Router();
-const BookMark = require("../models/bookMark");
+const BookMark = require("../models/BookMark.js");
 
 bookMarkRouter.get("/", async (req, res) => {
   try {
