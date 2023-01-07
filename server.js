@@ -5,7 +5,7 @@ const app = express();
 const cors = require("cors");
 const morgan = require("morgan");
 
-const bookMarkController = require("./controller/bookMark");
+const bookMarkController = require("./controller/bookMark.js")
 
 const PORT = process.env.PORT;
 const methodOverride = require("method-override");
