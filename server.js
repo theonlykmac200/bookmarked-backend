@@ -32,6 +32,9 @@ db.on("connected", () => console.log("mongo connected"));
 db.on("disconnected", () => console.log("mongo disconnected"));
 
 app.use("/bookMarks", bookMarkController);
+app.get("/", (req, res) => {
+  res.send("Hello World!");
+});
 
 // Listener
 app.listen(PORT, () =>
